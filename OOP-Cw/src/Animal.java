@@ -7,7 +7,7 @@ public class Animal {
         modelName = name;
     }
     public static void main(String[] args) {
-        Animal obj = new Animal(1996, "Adnaan");
+        Animal obj = new Animal(2002, "Adnaan Fuard");
         System.out.println(obj.modelName + " " + obj.modelYear);
     }
 }    
